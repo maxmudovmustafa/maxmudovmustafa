@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Makhmudov Mustafa, and I like Mobile development!
+
 <!--
 **maxmudovmustafa/maxmudovmustafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
